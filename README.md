@@ -1,29 +1,29 @@
 # The conference
 
-Clique [ici](http://conference.matisbaguelin.fr/) pour visualiser le projet.
+Clique [ici](http://mbaguelin.eemi.tech/BDD/blog/) pour visualiser le projet.
 
-L'objectif était de réaliser une [maquette](https://i.pinimg.com/originals/7c/39/00/7c3900c859005ec907114689f79da4a3.jpg) complète, responsive.
+L'objectif était de réaliser un blog avec un espace membres pour pouvoir mettre des commentaires.
 
 
 ## Langages utilisés 
 
 * HTML5 / CSS3
+* PHP
 * Javascript / jQuery
 
 
 ## Instructions
 
-* Réalisation d'une [maquette](https://i.pinimg.com/originals/7c/39/00/7c3900c859005ec907114689f79da4a3.jpg)
-* Responsive
+* 
 
 
 ## Aperçu
 
-![page accueil](http://matisbaguelin.fr/images/projets/conference.png)
+![page accueil]( 'en cours')
 
 
 ## Auteur(s) & date
 
 * **Matis BAGUELIN**
 
-*Mai 2020*
+*Juillet 2020*
